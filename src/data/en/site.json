@@ -1,0 +1,227 @@
+{
+  "locale": "en",
+  "companyName": "Rihla",
+  "companyNameIsPlaceholder": true,
+  "tagline": "Private transfers, carefully arranged.",
+  "description": "Private transportation for airport, hotel, city, and intercity journeys. Availability and price are confirmed directly on WhatsApp.",
+  "whatsappNumber": "",
+  "phone": "",
+  "email": "",
+  "logo": "",
+  "siteUrl": "",
+  "contentUpdated": "2026-10-27",
+  "serviceAreas": [],
+  "businessHours": "",
+  "socialLinks": [],
+  "copyrightYear": "2026",
+  "navigation": [
+    { "label": "Fleet", "href": "/fleet" },
+    { "label": "Articles", "href": "/articles" },
+    { "label": "FAQ", "href": "/#faq" }
+  ],
+  "footerNavigation": [
+    { "label": "Fleet", "href": "/fleet" },
+    { "label": "Articles", "href": "/articles" },
+    { "label": "FAQ", "href": "/#faq" }
+  ],
+  "hero": {
+    "eyebrow": "Private transfers",
+    "headline": "Your Journey.\nOur Priority.",
+    "supporting": "Reliable private transfers and comfortable journeys, wherever you need to go.",
+    "primaryCta": "WhatsApp",
+    "secondaryCta": "View the fleet",
+    "secondaryHref": "/fleet",
+    "image": "/images/hero.jpg",
+    "imageAlt": "Placeholder photograph of a black luxury sedan on a tree-lined road at dusk. This is not a confirmed company vehicle.",
+    "imagePosition": "68% center"
+  },
+  "highlightsLabel": "How a private transfer works",
+  "highlights": [
+    {
+      "title": "Private vehicle",
+      "text": "A car reserved for your party, not a shared ride."
+    },
+    {
+      "title": "Door to door",
+      "text": "From the pickup you name to the place you need."
+    },
+    {
+      "title": "Arranged on WhatsApp",
+      "text": "Availability and price are confirmed in conversation."
+    },
+    {
+      "title": "Visitors and residents",
+      "text": "For a single transfer or a day with more than one stop."
+    }
+  ],
+  "fleet": {
+    "id": "fleet",
+    "eyebrow": "The fleet",
+    "title": "Featured\nvehicles",
+    "intro": "Demonstration vehicles. Replace them with the company fleet before launch.",
+    "empty": "No vehicles are listed yet.",
+    "passengersLabel": "Passengers",
+    "luggageLabel": "Luggage",
+    "capacityValue": "Up to {count}",
+    "inquireLabel": "Inquire on WhatsApp",
+    "priceLabel": "Indicative",
+    "viewAllLabel": "View all",
+    "viewAllHref": "/fleet"
+  },
+  "vehiclePage": {
+    "backLabel": "All vehicles"
+  },
+  "fleetPage": {
+    "eyebrow": "The fleet",
+    "title": "All vehicles",
+    "intro": "Demonstration vehicles. Replace them with the company fleet before launch.",
+    "searchLabel": "Search",
+    "searchPlaceholder": "Name or description",
+    "categoryLabel": "Category",
+    "allCategories": "All",
+    "passengersLabel": "Passengers",
+    "anyPassengers": "Any",
+    "passengersOption": "{count}+",
+    "applyLabel": "Apply",
+    "clearLabel": "Clear",
+    "empty": "No vehicles match these filters.",
+    "resultSingular": "1 vehicle",
+    "resultPlural": "{count} vehicles",
+    "previousLabel": "Previous",
+    "nextLabel": "Next",
+    "pageLabel": "Page {page} of {pages}",
+    "paginationLabel": "Fleet pages"
+  },
+  "articlesSection": {
+    "id": "articles",
+    "eyebrow": "Articles",
+    "title": "Notes\nbefore you travel",
+    "intro": "Demonstration articles. Replace them with the company's own writing before launch.",
+    "empty": "No articles are listed yet.",
+    "readLabel": "Read",
+    "allLabel": "All articles"
+  },
+  "articlesPage": {
+    "eyebrow": "Articles",
+    "title": "All articles",
+    "intro": "Demonstration articles. Each one opens on its own page.",
+    "empty": "No articles are listed yet.",
+    "backLabel": "All articles"
+  },
+  "servicesSection": {
+    "id": "services",
+    "eyebrow": "Services",
+    "title": "Travel, arranged around where you need to be.",
+    "intro": "Sample services for this preview. Keep only the journeys you actually offer.",
+    "empty": "No services are listed yet."
+  },
+  "destinations": {
+    "id": "destinations",
+    "eyebrow": "Destinations",
+    "title": "Name the pickup. Name the place.",
+    "intro": "Example journeys only. Travel times and fares are confirmed on WhatsApp, not listed here.",
+    "empty": "No routes are listed yet.",
+    "image": "/images/journey.jpg",
+    "imageAlt": "Placeholder photograph of a person driving at dusk. This is not a company chauffeur.",
+    "imagePosition": "center",
+    "inquireLabel": "Inquire about this journey"
+  },
+  "why": {
+    "id": "why",
+    "eyebrow": "Why travel this way",
+    "title": "Quiet vehicles. Clear answers.",
+    "points": [
+      {
+        "title": "Comfortable vehicles",
+        "text": "Room for people and luggage, chosen for the length of the journey."
+      },
+      {
+        "title": "A direct conversation",
+        "text": "You write on WhatsApp. Timing, stops, and the vehicle are agreed there."
+      },
+      {
+        "title": "Flexible arrangements",
+        "text": "Airport collections, hotel departures, and travel between cities can be requested."
+      },
+      {
+        "title": "For guests and locals",
+        "text": "The same private transfer, whether you are visiting or you live here."
+      }
+    ]
+  },
+  "process": {
+    "id": "process",
+    "eyebrow": "How an inquiry works",
+    "title": "Three steps. No automatic booking.",
+    "steps": [
+      {
+        "title": "Choose a vehicle or service",
+        "text": "Look through the fleet, or simply describe the journey you need."
+      },
+      {
+        "title": "Message on WhatsApp",
+        "text": "Send the pickup, destination, date, number of passengers, and luggage."
+      },
+      {
+        "title": "Confirm together",
+        "text": "The company replies with availability and a price. Nothing is reserved until you agree."
+      }
+    ],
+    "note": "This website starts an inquiry. It does not confirm a vehicle, a price, or a booking."
+  },
+  "faqSection": {
+    "id": "faq",
+    "eyebrow": "Questions",
+    "title": "Before you write.",
+    "empty": "No questions are listed yet."
+  },
+  "contact": {
+    "id": "contact",
+    "eyebrow": "Contact",
+    "title": "Tell us where you need to go.",
+    "intro": "Share the pickup, the destination, the date, and who is travelling. Availability and price come back on WhatsApp.",
+    "cta": "Plan Your Journey on WhatsApp",
+    "aside": "A short message is enough to begin. Add a flight number for an airport collection if you have one.",
+    "pendingNote": "The WhatsApp number is not published yet. Add it in the site configuration to activate these buttons.",
+    "reassurance": "Nothing is reserved until you confirm availability and price in the conversation.",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "hoursLabel": "Hours",
+    "areasLabel": "Service areas",
+    "socialLabel": "Social"
+  },
+  "footer": {
+    "blurb": "Private transfers for travellers and residents. Journeys are arranged directly, one conversation at a time.",
+    "rights": "All rights reserved.",
+    "inquiryLabel": "WhatsApp",
+    "exploreLabel": "Explore"
+  },
+  "ui": {
+    "headerCta": "WhatsApp",
+    "skipToContent": "Skip to content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mobileNavLabel": "Menu",
+    "primaryNavLabel": "Primary",
+    "footerNavLabel": "Footer",
+    "whatsappUnavailable": "WhatsApp is not configured yet.",
+    "mobileCta": "Plan Your Journey on WhatsApp",
+    "languageLabel": "Language",
+    "notFoundTitle": "Page not found",
+    "notFoundText": "That page is not on this site.",
+    "notFoundHome": "Back to the homepage",
+    "loadingVehicles": "Loading vehicles…",
+    "loadingArticle": "Loading article…"
+  },
+  "messages": {
+    "general": "Hello, I would like to arrange a private transfer. Please share availability and pricing. My pickup location and destination are: ",
+    "vehicle": "Hello, I am interested in booking the {vehicle}. Please share availability and pricing. My pickup location and destination are: ",
+    "route": "Hello, I would like to enquire about a transfer from {origin} to {destination}. Please share availability and pricing. My travel date is: "
+  },
+  "seo": {
+    "title": "Rihla — Private transfers",
+    "description": "Private transfers and comfortable journeys between airports, hotels, cities, and the places you need to be. Inquire on WhatsApp.",
+    "ogImage": "/images/hero.jpg",
+    "ogImageAlt": "Placeholder photograph of a black luxury sedan at dusk."
+  }
+}

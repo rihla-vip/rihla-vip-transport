@@ -1,0 +1,53 @@
+[
+  {
+    "id": "executive-sedan",
+    "name": "Executive Sedan",
+    "category": "Sedan",
+    "description": "A quiet sedan for airport arrivals, hotel transfers, and city appointments.",
+    "passengers": 3,
+    "luggage": 2,
+    "features": ["Climate control", "Rear legroom", "Phone charging"],
+    "image": "/images/sedan.jpg",
+    "imageAlt": "Placeholder photograph of a black executive sedan in profile. This is not a confirmed company vehicle.",
+    "imagePosition": "center",
+    "gallery": [],
+    "order": 1,
+    "featured": true,
+    "price": null,
+    "suitability": "Airport and city transfers"
+  },
+  {
+    "id": "premium-suv",
+    "name": "Premium SUV",
+    "category": "SUV",
+    "description": "Extra cabin height and luggage room for families, small groups, and longer transfers.",
+    "passengers": 5,
+    "luggage": 4,
+    "features": ["Higher seating", "Luggage space", "Climate control"],
+    "image": "/images/suv.jpg",
+    "imageAlt": "Placeholder photograph of a black luxury SUV parked beside a modern building. This is not a confirmed company vehicle.",
+    "imagePosition": "62% center",
+    "gallery": [],
+    "order": 2,
+    "featured": false,
+    "price": null,
+    "suitability": "Families and extra luggage"
+  },
+  {
+    "id": "executive-van",
+    "name": "Executive Van",
+    "category": "Van",
+    "description": "A larger vehicle for groups who want to travel together with their luggage.",
+    "passengers": 7,
+    "luggage": 6,
+    "features": ["Group seating", "Luggage room", "Sliding doors"],
+    "image": "/images/van.jpg",
+    "imageAlt": "Placeholder photograph of the front of a dark Mercedes van with its headlights on. This is not a confirmed company vehicle.",
+    "imagePosition": "center",
+    "gallery": [],
+    "order": 3,
+    "featured": false,
+    "price": null,
+    "suitability": "Groups travelling together"
+  }
+]

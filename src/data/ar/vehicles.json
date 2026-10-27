@@ -1,0 +1,53 @@
+[
+  {
+    "id": "executive-sedan",
+    "name": "سيدان تنفيذي",
+    "category": "سيدان",
+    "description": "سيدان هادئة للوصول إلى المطار وتنقلات الفنادق ومواعيد المدينة.",
+    "passengers": 3,
+    "luggage": 2,
+    "features": ["تحكم بالحرارة", "مساحة للأرجل في الخلف", "شحن الهاتف"],
+    "image": "/images/sedan.jpg",
+    "imageAlt": "صورة مؤقتة لسيارة سيدان تنفيذية سوداء من الجانب. هذه ليست مركبة مؤكدة للشركة.",
+    "imagePosition": "center",
+    "gallery": [],
+    "order": 1,
+    "featured": true,
+    "price": null,
+    "suitability": "تنقلات المطار والمدينة"
+  },
+  {
+    "id": "premium-suv",
+    "name": "دفع رباعي فاخر",
+    "category": "دفع رباعي",
+    "description": "ارتفاع إضافي في المقصورة ومساحة للأمتعة للعائلات والمجموعات الصغيرة والتنقلات الأطول.",
+    "passengers": 5,
+    "luggage": 4,
+    "features": ["جلوس مرتفع", "مساحة للأمتعة", "تحكم بالحرارة"],
+    "image": "/images/suv.jpg",
+    "imageAlt": "صورة مؤقتة لسيارة دفع رباعي فاخرة سوداء بجانب مبنى حديث. هذه ليست مركبة مؤكدة للشركة.",
+    "imagePosition": "62% center",
+    "gallery": [],
+    "order": 2,
+    "featured": false,
+    "price": null,
+    "suitability": "العائلات والأمتعة الإضافية"
+  },
+  {
+    "id": "executive-van",
+    "name": "فان تنفيذي",
+    "category": "فان",
+    "description": "مركبة أكبر للمجموعات التي تريد السفر معًا مع أمتعتها.",
+    "passengers": 7,
+    "luggage": 6,
+    "features": ["جلوس للمجموعة", "حيز للأمتعة", "أبواب منزلقة"],
+    "image": "/images/van.jpg",
+    "imageAlt": "صورة مؤقتة لمقدمة فان مرسيدس داكن ومصابيحه مضاءة. هذه ليست مركبة مؤكدة للشركة.",
+    "imagePosition": "center",
+    "gallery": [],
+    "order": 3,
+    "featured": false,
+    "price": null,
+    "suitability": "مجموعات تسافر معًا"
+  }
+]

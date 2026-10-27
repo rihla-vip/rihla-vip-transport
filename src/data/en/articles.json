@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "what-to-send",
+    "title": "What to send with a transfer inquiry",
+    "excerpt": "A short message is enough to start. These are the details that let the company answer with availability.",
+    "body": [
+      "This is a demonstration article. Replace it with the company's own writing before launch.",
+      "Send the pickup point, the destination, the date and time, the number of passengers, and how much luggage you have. For an airport collection, a flight number helps the company watch for a delay.",
+      "The website does not reserve a vehicle or confirm a price. The reply on WhatsApp is where availability and the fare are agreed."
+    ],
+    "image": "/images/journey.jpg",
+    "imageAlt": "Placeholder photograph of a person driving at dusk. This is not a company chauffeur.",
+    "imagePosition": "center",
+    "publishedOn": "2026-10-12",
+    "order": 1,
+    "featured": true
+  },
+  {
+    "slug": "airport-collections",
+    "title": "Asking for an airport collection",
+    "excerpt": "Name the airport, the terminal if you know it, and the flight. The company confirms the pickup after it reads the message.",
+    "body": [
+      "This is a demonstration article. Replace it with the company's own writing before launch.",
+      "An airport collection is a request, not a booking made on this page. Include the airport, whether you are arriving or departing, and the time you expect to be ready.",
+      "If the flight changes, send the new number in the same conversation so the company can tell you whether the pickup can move with it."
+    ],
+    "image": "/images/hero.jpg",
+    "imageAlt": "Placeholder photograph of a black luxury sedan on a tree-lined road at dusk. This is not a confirmed company vehicle.",
+    "imagePosition": "center 55%",
+    "publishedOn": "2026-10-18",
+    "order": 2,
+    "featured": true
+  },
+  {
+    "slug": "luggage-and-vehicle-size",
+    "title": "Matching luggage to the vehicle",
+    "excerpt": "Passenger count is only half of the request. Luggage decides whether a sedan, an SUV, or a van is the right fit.",
+    "body": [
+      "This is a demonstration article. Replace it with the company's own writing before launch.",
+      "Tell the company how many suitcases and cabin bags are travelling, not only how many people. A sedan that seats the party can still be the wrong vehicle when the luggage does not fit.",
+      "The capacities shown with each vehicle are placeholders for this preview. The company confirms the vehicle that can take the trip."
+    ],
+    "image": "/images/suv.jpg",
+    "imageAlt": "Placeholder photograph of a black luxury SUV parked beside a modern building. This is not a confirmed company vehicle.",
+    "imagePosition": "62% center",
+    "publishedOn": "2026-10-22",
+    "order": 3,
+    "featured": true
+  },
+  {
+    "slug": "journeys-between-cities",
+    "title": "Requesting a journey between cities",
+    "excerpt": "Intercity travel can be requested in the same way as a city transfer. Share both places and the timing.",
+    "body": [
+      "This is a demonstration article. Replace it with the company's own writing before launch.",
+      "Name the city or place you leave from and the city or place you are going to. Add the date, the time you want to depart, and whether you need a stop on the way.",
+      "Nothing on this website is a timetable or a fare. The company replies with whether it can take the journey and what it will cost."
+    ],
+    "image": "/images/van.jpg",
+    "imageAlt": "Placeholder photograph of the front of a dark Mercedes van with its headlights on. This is not a confirmed company vehicle.",
+    "imagePosition": "center",
+    "publishedOn": "2026-10-27",
+    "order": 4,
+    "featured": false
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "arrange",
+    "question": "How do I arrange a transfer?",
+    "answer": "Choose a vehicle or describe the journey, then message the company on WhatsApp. Availability and price are confirmed with you directly. This website does not complete a booking.",
+    "order": 1
+  },
+  {
+    "id": "cities",
+    "question": "Can I travel between cities?",
+    "answer": "You can request an intercity journey on WhatsApp. Share both places and your timing, and the company will tell you whether it can take the trip.",
+    "order": 2
+  },
+  {
+    "id": "price",
+    "question": "How do I confirm the price?",
+    "answer": "The price is confirmed in conversation, after the vehicle, route, date, and any waiting time are known. Nothing on this page is a fare unless an indicative price has been added to a vehicle.",
+    "order": 3
+  },
+  {
+    "id": "vehicle",
+    "question": "Can I request a particular vehicle?",
+    "answer": "Yes. Use the inquiry button on a vehicle, or name it in your message. The company confirms whether that vehicle is free before you travel.",
+    "order": 4
+  },
+  {
+    "id": "details",
+    "question": "What should I send when I get in touch?",
+    "answer": "Send the pickup point, destination, date and time, number of passengers, and luggage. A flight number helps for an airport collection.",
+    "order": 5
+  }
+]

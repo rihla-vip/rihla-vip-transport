@@ -1,0 +1,34 @@
+[
+  {
+    "id": "airport-hotel",
+    "origin": "Airport",
+    "destination": "Hotel",
+    "description": "A direct private transfer from the airport to where you are staying.",
+    "duration": null,
+    "order": 1
+  },
+  {
+    "id": "hotel-city",
+    "origin": "Hotel",
+    "destination": "Another city",
+    "description": "An intercity journey. The route and timing are confirmed before travel.",
+    "duration": null,
+    "order": 2
+  },
+  {
+    "id": "stay-attraction",
+    "origin": "Your stay",
+    "destination": "An attraction",
+    "description": "A transfer to a landmark or meeting point, and back if you need it.",
+    "duration": null,
+    "order": 3
+  },
+  {
+    "id": "home-appointment",
+    "origin": "Residence",
+    "destination": "Appointment",
+    "description": "A private car for a fixed time and place, arranged on WhatsApp.",
+    "duration": null,
+    "order": 4
+  }
+]

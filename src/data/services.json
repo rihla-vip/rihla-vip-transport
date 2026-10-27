@@ -1,0 +1,38 @@
+[
+  {
+    "id": "airport",
+    "name": "Airport transfers",
+    "description": "A private collection or drop-off, timed around your flight and coordinated on WhatsApp.",
+    "order": 1
+  },
+  {
+    "id": "intercity",
+    "name": "City-to-city transfers",
+    "description": "A direct journey between cities, with the vehicle and timing agreed before you travel.",
+    "order": 2
+  },
+  {
+    "id": "chauffeur",
+    "name": "Private chauffeur",
+    "description": "A driver and vehicle reserved for your schedule, including more than one stop.",
+    "order": 3
+  },
+  {
+    "id": "hotel",
+    "name": "Hotel transfers",
+    "description": "From the hotel door to an airport, a residence, or the next stay.",
+    "order": 4
+  },
+  {
+    "id": "sightseeing",
+    "name": "Attractions and sightseeing",
+    "description": "Point-to-point transport to a landmark, a meeting, or a place you want to see.",
+    "order": 5
+  },
+  {
+    "id": "groups",
+    "name": "Family and group travel",
+    "description": "One vehicle for the people travelling together, with room for luggage.",
+    "order": 6
+  }
+]
