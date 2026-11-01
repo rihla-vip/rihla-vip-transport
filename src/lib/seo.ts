@@ -10,7 +10,12 @@ export function organizationJsonLd(site: SiteContent, siteUrl: string | null) {
 
   if (siteUrl) data.url = siteUrl;
   if (site.email) data.email = site.email;
-  if (site.phone) data.telephone = site.phone;
+  const telephones = [
+    ...(site.phone ? [site.phone] : []),
+    ...site.contacts.map((contact) => contact.phone.replace(/\s/g, "")),
+  ];
+  if (telephones.length === 1) data.telephone = telephones[0];
+  if (telephones.length > 1) data.telephone = telephones;
   if (site.logo && siteUrl) data.logo = new URL(site.logo, siteUrl).href;
 
   const sameAs = site.socialLinks

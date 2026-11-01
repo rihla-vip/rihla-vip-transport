@@ -67,7 +67,15 @@ export async function Footer() {
               {site.contact.pendingNote}
             </p>
           )}
-          <ul className="mt-4 space-y-2 text-sm text-mist md:text-end">
+          <ul className="mt-4 space-y-3 text-sm text-mist md:text-end">
+            {site.contacts.map((contact) => (
+              <li key={contact.phone}>
+                <a href={`tel:${contact.phone.replace(/\s/g, "")}`} className="text-ivory hover:text-gold">
+                  {contact.phone}
+                </a>
+                <span className="block text-mist-dim">{contact.name}</span>
+              </li>
+            ))}
             {site.phone ? (
               <li>
                 <a href={`tel:${site.phone.replace(/\s/g, "")}`}>{site.phone}</a>

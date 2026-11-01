@@ -4,8 +4,12 @@
   "companyNameIsPlaceholder": true,
   "tagline": "تنقلات خاصة، بترتيب دقيق.",
   "description": "تنقل خاص للمطار والفنادق والمدينة وما بين المدن. التوفر والسعر يُؤكدان مباشرة على واتساب.",
-  "whatsappNumber": "",
+  "whatsappNumber": "966594424813",
   "phone": "",
+  "contacts": [
+    { "name": "Mohsin Gujjar", "phone": "+966 50 947 0674" },
+    { "name": "Ijaz Jutt", "phone": "+966 59 442 4813" }
+  ],
   "email": "",
   "logo": "",
   "siteUrl": "",

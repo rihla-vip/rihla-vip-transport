@@ -67,6 +67,14 @@ function loadSite(site: SiteContent, file: string): SiteContent {
     site.whatsappNumber === "" || isWhatsappConfigured(site.whatsappNumber),
     `whatsappNumber in ${file} must be 8 to 15 digits with no spaces or symbols, or an empty string.`,
   );
+  assert(Array.isArray(site.contacts), `contacts in ${file} must be an array.`);
+  for (const contact of site.contacts) {
+    assert(contact.name.trim().length > 0, `A contact in ${file} needs a name.`);
+    assert(
+      /^\+\d[\d\s-]{7,18}$/.test(contact.phone.trim()),
+      `Contact "${contact.name}" in ${file} needs a phone number such as +966 50 947 0674.`,
+    );
+  }
   if (site.logo) assertPublicImage(site.logo, "logo");
   assertPublicImage(site.hero.image, "Hero image");
   assertPublicImage(site.destinations.image, "Destinations image");

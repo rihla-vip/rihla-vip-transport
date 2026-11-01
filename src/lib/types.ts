@@ -8,6 +8,11 @@ export type SocialLink = {
   href: string;
 };
 
+export type PhoneContact = {
+  name: string;
+  phone: string;
+};
+
 export type Highlight = {
   title: string;
   text: string;
@@ -31,6 +36,7 @@ export type SiteContent = {
   description: string;
   whatsappNumber: string;
   phone: string;
+  contacts: PhoneContact[];
   email: string;
   logo: string;
   siteUrl: string;

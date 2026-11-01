@@ -4,8 +4,12 @@
   "companyNameIsPlaceholder": true,
   "tagline": "Private transfers, carefully arranged.",
   "description": "Private transportation for airport, hotel, city, and intercity journeys. Availability and price are confirmed directly on WhatsApp.",
-  "whatsappNumber": "",
+  "whatsappNumber": "966594424813",
   "phone": "",
+  "contacts": [
+    { "name": "Mohsin Gujjar", "phone": "+966 50 947 0674" },
+    { "name": "Ijaz Jutt", "phone": "+966 59 442 4813" }
+  ],
   "email": "",
   "logo": "",
   "siteUrl": "",
